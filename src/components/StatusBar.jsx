@@ -8,18 +8,18 @@ const StatusBar = () => {
 
             <div className='my-1 md:mr-6 flex justify-center items-center cursor-pointer'>
                 <i className="las la-check-circle text-xl mx-2"></i>
-                <span>Last Updated - February 22,2020</span>
+                <span className='text-sm '>Last Updated - February 22,2020</span>
             </div>
 
             <div className='my-1 md:mr-6 flex justify-center items-center cursor-pointer'>
                 <i className="las la-exclamation text-xl mx-2"></i>
-                <span>Advertising Disclosure</span>
+                <span className='text-sm '>Advertising Disclosure</span>
             </div>
         </div>
 
         <div className=" my-1 md:mr-6 flex justify-start items-center w-full  cursor-pointer md:w-[25%]">
             <i className="las la-angle-down text-xl mx-2"></i>
-            <span>Top Relevant</span>
+            <span className='text-sm '>Top Relevant</span>
         </div>
     </div>
   )
