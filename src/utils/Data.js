@@ -59,7 +59,7 @@ export const data = [
         "why_we_love_it" : ["Documentation", "Easy Use", "Out Of Box"],
         "rating" : 9.3,
         "review" : "Exceptional",
-        "stars" : 5
+        "stars" : 1
     },
     {
         "id" : 4,
